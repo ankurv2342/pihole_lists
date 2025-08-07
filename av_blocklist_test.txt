@@ -34,12 +34,3 @@ xatahq-com.l.ink
 dakao.co.uk
 xatainit-com.l.ink
 1030governordempseydrive.com
-
-
-# Addblockers for dailymotion.com
-||akamaihd.net/*_vpaid.js
-||ugcbrainient-a.akamaihd.net^
-||dmcdn.net/*_mp4_h264_aac_$media
-||dmcdn.net/playerv5/21164592a2e8ab21f8a4.dmp.js
-||dmcdn.net/playerv5^
-dailymotion.com/video/*_mp4_h264_aac_$media
