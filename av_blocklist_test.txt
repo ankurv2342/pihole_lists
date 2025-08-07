@@ -38,7 +38,7 @@ xatainit-com.l.ink
 
 # Addblockers for dailymotion.com
 akamaihd.net/*_vpaid.js
-ugcbrainient-a.akamaihd.net^
+ugcbrainient-a.akamaihd.net
 ugcbrainient-a.akamaihd.net/1147/custom/360_orange/v1_vpaid.js
 ugcbrainient-a.akamaihd.net/1147/custom/360_orange/v1_vast.xml
 ugcbrainient-a.akamaihd.net/1147/custom/360_orange/assets/video.hd.mp4
@@ -48,7 +48,7 @@ ugcbrainient-a.akamaihd.net/1147/custom/360_orange/assets/pixel.png
 ||dmcdn.net/playerv5/eb8722eb6f866d1cf35d.dmp.js
 ||dmcdn.net/playerv5/ca9b8e4a4391f749ab18.dmp.js
 ||dmcdn.net/playerv5/e535b47860bb25b01252.dmp.js
-dmcdn.net/playerv5/fe5610b5193cd8bfe6a3.dmp.js
+dmcdn.net/playerv5
 dmcdn.net/playerv5/406f9fd1eb77f6862f5b.dmp.js
 dmcdn.net/playerv5/152cfcd3fdbcc85f376e.dmp.js
 dmcdn.net/playerv5/251ba43b95f48375a104.dmp.js
